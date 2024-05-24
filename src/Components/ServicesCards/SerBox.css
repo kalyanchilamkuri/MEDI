@@ -1,0 +1,17 @@
+.ser-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap:20px;
+
+}
+.ser-dwn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap:20px;
+    margin-top: 20px;;
+
+}

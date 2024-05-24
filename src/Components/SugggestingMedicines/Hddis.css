@@ -1,0 +1,27 @@
+#Hdhead{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+    padding-top:20px;
+}
+#Headdis{
+    border: 3px solid black;
+    border-radius: 30px;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    height:400px;
+    overflow: scroll;
+    flex-direction: column;
+    padding:20px;
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 22px;
+}
+h1{
+    text-align: center;
+    color:rgb(49, 153, 89);
+    font-style: italic;
+    padding: 20px;
+}
